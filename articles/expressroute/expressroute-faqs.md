@@ -190,8 +190,8 @@ The table below provides the increased limits for the number of VNets you can li
 
 | **Circuit Size** | **Number of VNet links for default setup** | **Number of VNet Links with ExpressRoute Premium** |
 |--------------|----------------------------------------|-----------------------------------------------|
-| 50 Mbps      | 10                                     | 10                                            |
-| 100 Mbps     | 10                                     | 20                                            |
+| 50 Mbps      | 10                                     | 20                                            |
+| 100 Mbps     | 10                                     | 25                                            |
 | 200 Mbps     | 10                                     | 25                                            |
 | 500 Mbps     | 10                                     | 40                                            |
 | 1 Gbps       | 10                                     | 50											|
